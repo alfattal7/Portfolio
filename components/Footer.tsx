@@ -37,7 +37,7 @@ const Footer = () => {
             position="right"
             handleClick={() => {
             /*  if (!window.location.href.includes("linkedin.com")){
-              window.open("https://www.linkedin.com/in/mhd-bashar-al-fattal-478b39251/", "_blank")
+              window.open("https://github.com/alfattal7/", "_blank")
   }*/ }}>
              </MagicButton>
         </a>
